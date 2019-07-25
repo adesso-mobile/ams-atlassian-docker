@@ -1,0 +1,2 @@
+1.7|2019-07-25 12:20:12,825|e2a42fbd51cdac975a589d5134ee2564|crowd|3.4.5|-||analytics.config.changed|{"newValue":"","oldValue":"","key":"POLICY_ACKNOWLEDGED"}|1564057212825|||analytics.api||
+1.7|2019-07-25 12:20:12,983|e2a42fbd51cdac975a589d5134ee2564|crowd|3.4.5|-||crowd.server.started.other|{}|1564057212983|||analytics.instance||
